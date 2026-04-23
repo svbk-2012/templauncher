@@ -20,3 +20,12 @@ coverage.xml
 .mypy_cache
 .pytest_cache
 .hypothesis
+
+# Build directories and files
+build/
+dist/
+*.spec
+UniversalAppRunner.exe
+UniversalAppRunner.zip
+*.exe
+*.zip
